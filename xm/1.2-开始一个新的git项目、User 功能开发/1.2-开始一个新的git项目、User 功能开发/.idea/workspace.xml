@@ -71,8 +71,13 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/swiper/config.py">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="285">
               <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+=======
+            <state relative-caret-position="209">
+              <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+>>>>>>> d448626100d4d037b6c2bdbd24015caab2202451
             </state>
           </provider>
         </entry>
@@ -92,7 +97,11 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="ProjectFrameBounds" extendedState="6">
+=======
+  <component name="ProjectFrameBounds" extendedState="7">
+>>>>>>> d448626100d4d037b6c2bdbd24015caab2202451
     <option name="x" value="65" />
     <option name="y" value="-4" />
     <option name="width" value="735" />
@@ -139,7 +148,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+<<<<<<< HEAD
     <property name="last_opened_file_path" value="$USER_HOME$/work/test1008/xm/1.2-开始一个新的git项目、User 功能开发/1.2-开始一个新的git项目、User 功能开发" />
+=======
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+>>>>>>> d448626100d4d037b6c2bdbd24015caab2202451
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -209,15 +222,27 @@
       <workItem from="1566289228388" duration="824000" />
       <workItem from="1566350600557" duration="448000" />
       <workItem from="1566353320670" duration="28000" />
+<<<<<<< HEAD
       <workItem from="1570610113799" duration="3548000" />
+=======
+      <workItem from="1570610113799" duration="2463000" />
+>>>>>>> d448626100d4d037b6c2bdbd24015caab2202451
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="19808000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="735" height="883" extended-state="6" />
+=======
+    <option name="totallyTimeSpent" value="18723000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="-4" width="735" height="883" extended-state="6" />
+    <editor active="true" />
+>>>>>>> d448626100d4d037b6c2bdbd24015caab2202451
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22173275" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -399,8 +424,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/swiper/config.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="285">
           <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+=======
+        <state relative-caret-position="209">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+>>>>>>> d448626100d4d037b6c2bdbd24015caab2202451
         </state>
       </provider>
     </entry>
